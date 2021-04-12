@@ -5,7 +5,7 @@ Create a simple Hello World .Net 5 application and run it on Red Hat OpenShift (
 ### Pre-req .Net 5 SDK
 - Note: I'm using a Windows 10 for this example.
 - Download and install [.Net 5 SDK](https://dotnet.microsoft.com/download/dotnet/5.0) for your OS.
-- Note: For this tutorial I used Microsoft's installation package for SDK 5.0.21
+- Note: For this tutorial I used Microsoft's installation package for .NET 5.0 SDK (v5.0.202) - Windows x86 Installer.  Installation directory: C:\Program Files (x86)\dotnet>
 
 ## Install Red Hat CodeReady Containers
 Follow the instructions [Create an OpenShift cluster](https://cloud.redhat.com/openshift/create/local) to install CodeReady Containers (CRC). Chose the "local" tab and select your OS.
