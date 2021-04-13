@@ -109,3 +109,19 @@ I chose to deploy this example as a binary artifact.  I'll use the binary artifa
 - [GETTING STARTED WITH .NET ON RHEL 8](https://access.redhat.com/documentation/en-us/net/5.0/html-single/getting_started_with_.net_on_rhel_8/index#publishing-apps-using-dotnet_using-dotnet-on-rhel)
 - [Getting Strated Guide - CodeReady Containers 1.24](https://access.redhat.com/documentation/en-us/red_hat_codeready_containers/1.24/html/getting_started_guide/index)
 - [Managing Imagestreams OCP 4.7](https://docs.openshift.com/container-platform/4.7/openshift_images/image-streams-manage.html)
+
+
+## Appendix
+
+### .Net Installation
+- The following were installed at: 'C:\Program Files (x86)\dotnet'
+- .NET SDK 5.0.202
+- NET Runtime 5.0.5
+- ASP.NET Core Runtime 5.0.5
+- .NET Windows Desktop Runtime 5.0.5
+
+- .NET Resources
+-.NET Documentation https://aka.ms/dotnet-docs
+- SDK Documentation https://aka.ms/dotnet-sdk-docs
+- Release Notes https://aka.ms/dotnet5-release-notes
+- Tutorials https://aka.ms/dotnet-tutorials
